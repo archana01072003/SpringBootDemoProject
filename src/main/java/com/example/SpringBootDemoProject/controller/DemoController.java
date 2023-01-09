@@ -24,7 +24,9 @@ public class DemoController {
     }
 
 
-
+    public int add(int a, int b) {
+        return a+b;
+    }
 
 
 }
