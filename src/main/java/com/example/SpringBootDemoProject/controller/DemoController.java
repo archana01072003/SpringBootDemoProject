@@ -42,6 +42,8 @@ public class DemoController {
         return "Data stored successfully";
 
     }
-
+    public int add(int a, int b) {
+        return a+b;
+    }
 
 }
